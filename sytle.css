@@ -43,11 +43,11 @@ button {
 }
 
 button:hover{
-    background-color:#0a9fc0 ;
+    background-color:#06748d ;
 }
 
 .botoes {
-    justify-content: space-around;
+    justify-content: space-evenly;
     width: 100%;
     display: flex;
 }
